@@ -1,4 +1,4 @@
-## 💳 Credit Card Fraud Detection – CodSoft Internship
+## <p align="center"> 💳 Credit Card Fraud Detection – CodSoft Internship </p>
 
  <p align="center">
   <img src="credict-card-cm.png" alt="Titanic" width="500"><br>
