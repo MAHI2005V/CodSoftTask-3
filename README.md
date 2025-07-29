@@ -1,6 +1,6 @@
 ## 💳 Credit Card Fraud Detection – CodSoft Internship
 
-![Fraud Detection](https://miro.medium.com/v2/resize\:fit:1200/1*oX1fQlz2PccU4L-FE1V4Xw.png)
+<p align="center"> <img src="https://miro.medium.com/v2/resize\:fit:1200/1*oX1fQlz2PccU4L-FE1V4Xw.png" > </p>
 
 ---
 
