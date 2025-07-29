@@ -1,7 +1,7 @@
 ## 💳 Credit Card Fraud Detection – CodSoft Internship
 
-<p align="center"> 
- < img src="credict-card-cm.png" alt="confusion matrix" width=600>
+ <p align="center">
+  <img src="credict-card-cm.png" alt="Titanic" width="500"><br>
 </p>
 
 ---
